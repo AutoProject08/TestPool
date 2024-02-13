@@ -1,6 +1,8 @@
 {
-"name": "TestPool",
-"description": "Testpool",
-"ticker": "TPS",
-"homepage": "https://twitter.com/Student__888"
+    "name": "TestPool",
+    "description": "TestPool",
+    "ticker": "TPS",
+    "homepage": "https://twitter.com/Student__888",
+    "extended": "",
+    "nonce":"1707795821"
 }
